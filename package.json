@@ -1,11 +1,11 @@
 {
-  "name": "river4",
-  "subdomain": "river4",
+  "name": "river4rm",
+  "subdomain": "river4rm",
   "description": "River of news aggregator that runs from Amazon S3.",
   "author": "Dave Winer <dave@smallpicture.com>",
   "version": "0.0.79",
   "scripts": {
-     "start": "node river4.js"
+     "start": "node river4rm.js"
      },
   "dependencies" : {
     "aws-sdk": "*", 
